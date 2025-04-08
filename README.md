@@ -31,4 +31,11 @@ cd WeatherApp
 Install the required Node.js packages:
 - npm install or yarn install
 
+For iOS setup
+- cd ios && pod install && cd ..
+
+Run the App
+- npx react-native run-android (Android)
+- npx react-native run-ios (iOS)
+
 ```
