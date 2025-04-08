@@ -27,4 +27,8 @@ Open your terminal and clone the repository to your local machine:
 ```bash
 git clone https://https://github.com/manzars/WeatherApp.git
 cd WeatherApp
+
+Install the required Node.js packages:
+- npm install or yarn install
+
 ```
